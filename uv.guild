@@ -1,2 +1,5 @@
-uv init 
-uv python pin 3.12
+Install uv:
++ Mac/Linux: curl -LsSf https://astral.sh/uv/install.sh | sh
++ Win/powershell: powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
+
+uv pip install -r requirements.txt
