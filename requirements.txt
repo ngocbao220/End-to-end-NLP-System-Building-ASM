@@ -1,0 +1,12 @@
+tqdm 
+torch
+numpy 
+pandas 
+beautifulsoup4 
+pypdf
+langchain
+huggingface-hub
+fastapi
+transformers
+chromadb
+uvicorn
