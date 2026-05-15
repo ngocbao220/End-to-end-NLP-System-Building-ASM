@@ -1,0 +1,1 @@
+/Users/ngocbao/Documents/Document/Semester6/Apply4Language/assignment/RAG_QA/End-to-end-NLP-System-Building-ASM/data/document.json
