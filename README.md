@@ -2,8 +2,6 @@
 
 This repository is a complete lightweight RAG submission for the updated assignment domain: factual QA about Vietnam National University, Hanoi (VNU) and VNU University of Engineering and Technology (VNU-UET).
 
-The original downloaded README and `data/test_questions.csv` were from the referenced Pittsburgh/CMU repository. They are not used by the final VNU/UET system.
-
 ## Repository Structure
 
 ```text
