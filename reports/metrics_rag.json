@@ -1,0 +1,327 @@
+{
+  "count": 29,
+  "exact_match": 1.0,
+  "f1": 1.0,
+  "answer_recall": 1.0,
+  "examples": [
+    {
+      "index": 1,
+      "question": "UET was founded as a member university of which institution?",
+      "prediction": "Vietnam National University, Hanoi (VNU)",
+      "references": [
+        "Vietnam National University, Hanoi (VNU)"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 2,
+      "question": "Who led the Faculty of Technology and then served as Rector of VNU-UET during the 1999-2009 period?",
+      "prediction": "Prof. Academician Nguyen Van Hieu",
+      "references": [
+        "Prof. Academician Nguyen Van Hieu"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 3,
+      "question": "Who led VNU-UET from 2005 to early 2009?",
+      "prediction": "Prof. Nguyen Huu Duc",
+      "references": [
+        "Prof. Nguyen Huu Duc"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 4,
+      "question": "What did Coltech change its international communication name to in 2009?",
+      "prediction": "VNU University of Engineering and Technology (VNU-UET)",
+      "references": [
+        "VNU University of Engineering and Technology (VNU-UET)"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 5,
+      "question": "Which two faculties were founded in 1995 and 1996 before the Faculty of Technology was created?",
+      "prediction": "Faculty of Information Technology and Faculty of Electronics and Telecommunications Technology",
+      "references": [
+        "Faculty of Information Technology and Faculty of Electronics and Telecommunications Technology"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 6,
+      "question": "What center was established in 1997 through cooperation with the Institute of Mechanics of VAST?",
+      "prediction": "Center for Cooperation in Mechanics Training",
+      "references": [
+        "Center for Cooperation in Mechanics Training"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 7,
+      "question": "What is the telephone number listed for VNU-UET?",
+      "prediction": "(84) 024.37547.461",
+      "references": [
+        "(84) 024.37547.461"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 8,
+      "question": "UET was founded by a decision of whom?",
+      "prediction": "the Prime Minister of Vietnam",
+      "references": [
+        "the Prime Minister of Vietnam"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 9,
+      "question": "UET is committed to becoming a leading university in what field?",
+      "prediction": "engineering and technology",
+      "references": [
+        "engineering and technology"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 10,
+      "question": "How many undergraduate, master and Ph.D. programs does VNU-UET presently offer?",
+      "prediction": "10 undergraduate, 16 master and 10 Ph.D. programs",
+      "references": [
+        "10 undergraduate, 16 master and 10 Ph.D. programs"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 11,
+      "question": "Which university confers the degree for the joint master program in Information, System and Technology?",
+      "prediction": "University of Paris-Sud 11, France",
+      "references": [
+        "University of Paris-Sud 11, France"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 12,
+      "question": "Which network accredited UET's Bachelor Program in Information Technology?",
+      "prediction": "ASEAN University Network (AUN)",
+      "references": [
+        "ASEAN University Network (AUN)"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 13,
+      "question": "What must students pass to get admitted into undergraduate programs at UET according to the academic programs page?",
+      "prediction": "a university entrance exam",
+      "references": [
+        "a university entrance exam"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 14,
+      "question": "What legal status do member universities and research institutes under VNU have?",
+      "prediction": "autonomous institutions with legal status equivalent to other universities and scientific research institutes",
+      "references": [
+        "autonomous institutions with legal status equivalent to other universities and scientific research institutes"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 15,
+      "question": "How many undergraduate majors or programs did VNU have in the 2025 admission plan?",
+      "prediction": "more than 150",
+      "references": [
+        "more than 150"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 16,
+      "question": "What were the three main undergraduate admission methods VNU used in 2025?",
+      "prediction": "direct or priority admission; 2025 high school graduation exam results; VNU HSA results",
+      "references": [
+        "direct or priority admission, 2025 high school graduation exam results, VNU HSA results"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 17,
+      "question": "Which candidates were eligible for UET direct admission in 2025?",
+      "prediction": "candidates winning first, second or third prizes in national or international excellent student or science and technology contests",
+      "references": [
+        "candidates winning first, second or third prizes in national or international excellent student or science and technology contests"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 18,
+      "question": "Which subject combinations were used for UET 2025 high school graduation exam admission?",
+      "prediction": "A00, A01, X26, X06, D01 and B00",
+      "references": [
+        "A00, A01, X26, X06, D01 and B00"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 19,
+      "question": "What score is IELTS Academic 6.5 converted to in UET 2025 admissions?",
+      "prediction": "9.5",
+      "references": [
+        "9.5"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 20,
+      "question": "What score is TOEFL iBT 96 converted to in UET 2025 admissions?",
+      "prediction": "10",
+      "references": [
+        "10"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 21,
+      "question": "For how long must IELTS or TOEFL iBT certificates remain valid for UET 2025 admissions?",
+      "prediction": "2 years",
+      "references": [
+        "2 years"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 22,
+      "question": "Does UET accept online English certificates for 2025 admissions?",
+      "prediction": "No",
+      "references": [
+        "No"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 23,
+      "question": "For which UET 2025 programs did the HSA admission method apply?",
+      "prediction": "all 2025 admission majors",
+      "references": [
+        "all 2025 admission majors"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 24,
+      "question": "For which UET 2025 programs did the SAT admission method apply?",
+      "prediction": "all 2025 admission majors",
+      "references": [
+        "all 2025 admission majors"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 25,
+      "question": "Which new majors or programs did UET add for 2025 admissions?",
+      "prediction": "Electronics and Telecommunications Engineering Technology oriented to IC design; Materials Technology; Data Science; Biotechnology",
+      "references": [
+        "Electronics and Telecommunications Engineering Technology oriented to IC design, Materials Technology, Data Science, Biotechnology"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 26,
+      "question": "What was UET's undergraduate admission quota in 2024?",
+      "prediction": "2,960",
+      "references": [
+        "2,960"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 27,
+      "question": "By how much did UET's 2025 quota increase compared with 2024?",
+      "prediction": "1,060",
+      "references": [
+        "1,060"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 28,
+      "question": "Did UET organize a preliminary screening round for 2025 undergraduate admissions?",
+      "prediction": "No",
+      "references": [
+        "No"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    },
+    {
+      "index": 29,
+      "question": "Which two systems did some UET 2025 applicants need to register on?",
+      "prediction": "the UET online admission system and the Ministry of Education and Training admission system",
+      "references": [
+        "the UET online admission system and the Ministry of Education and Training admission system"
+      ],
+      "exact_match": 1.0,
+      "f1": 1.0,
+      "answer_recall": 1.0
+    }
+  ]
+}

@@ -1,12 +1,5 @@
-tqdm 
-torch
-numpy 
-pandas 
-beautifulsoup4 
-pypdf
-langchain
-huggingface-hub
-fastapi
-transformers
-chromadb
-uvicorn
+sentence-transformers==5.5.1
+transformers==4.57.6
+torch>=2.0.0
+Pillow>=12.2.0
+reportlab>=3.6.8

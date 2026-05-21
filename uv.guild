@@ -1,5 +1,0 @@
-Install uv:
-+ Mac/Linux: curl -LsSf https://astral.sh/uv/install.sh | sh
-+ Win/powershell: powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
-
-uv pip install -r requirements.txt
