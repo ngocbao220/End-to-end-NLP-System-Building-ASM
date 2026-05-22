@@ -1,7 +1,5 @@
 # Contributions
 
-Replace the placeholder names with your team members before submitting.
-
 | Member | Data annotation | Data collection and modeling |
 | --- | --- | --- |
 | Vũ Đức Huy - 23020380 | Annotated train questions 1-12 and validated IAA subset items 1-3. | Selected VNU/UET official sources and reviewed source coverage. |
